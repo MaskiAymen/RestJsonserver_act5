@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Ahmed",
+      "lastName": "Aymen",
+      "email": "admin@gmail.com",
+      "dob": "2001-01-01T00:00:00.000Z",
+      "gender": "Male",
+      "education": "I2A",
+      "company": "Amazon",
+      "experience": 6,
+      "package": 49000,
+      "id": 9
+    }
+  ]
+}
